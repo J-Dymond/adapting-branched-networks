@@ -1,11 +1,11 @@
 # Class Separation
 
-Repository for class-separation, CKA, and linear probe experiments in the paper (Adapting branched networks to realise
-progressive intelligence)[https://bmvc2022.mpi-inf.mpg.de/0990.pdf]. 
+Repository for class-separation, CKA, and linear probe experiments in the paper [Adapting branched networks to realise
+progressive intelligence](https://bmvc2022.mpi-inf.mpg.de/0990.pdf).
 
 The repository has the code and analysis files used in the paper, as well as some additional scripts which weren't used in the paper.
 
-The code has not been updated since November 2022, however if there are any queries using the code don't desitate to contact (jd5u19@soton.ac.uk)[jd5u19@soton.ac.uk] for assistance. 
+The code has not been updated since November 2022, however if there are any queries using the code don't desitate to contact [jd5u19@soton.ac.uk](jd5u19@soton.ac.uk) for assistance. 
 
 The key files are as such:
 
